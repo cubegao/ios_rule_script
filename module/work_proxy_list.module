@@ -1,8 +1,8 @@
 #!name=proxy_list
-#!homepage=https://github.com/xxx
+#!homepage=https://github.com/xx
 #!desc=Work Rules Customized
 #!author=custom
-#!updated=2026-04-07
+#!updated=2026-04-08
 
 [General]
 dns-server = https://1.1.1.1/dns-query#proxy=PROXY,https://8.8.8.8/dns-query#proxy=PROXY
