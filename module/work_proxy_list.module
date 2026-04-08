@@ -4,10 +4,6 @@
 #!author=custom
 #!updated=2026-04-08
 
-[General]
-dns-server = https://1.1.1.1/dns-query#proxy=PROXY,https://8.8.8.8/dns-query#proxy=PROXY
-fallback-dns-server = https://dns.alidns.com/dns-query,223.5.5.5
-
 [Rule]
 DOMAIN-SUFFIX,pub.dev,PROXY
 DOMAIN-SUFFIX,hostloc.com,PROXY
