@@ -9,6 +9,7 @@ dns-server = https://dns.alidns.com/dns-query,https://dns.pub/dns-query
 fallback-dns-server = 223.5.5.5,119.29.29.29
 
 [Rule]
+DOMAIN-SUFFIX,duckdns.org,DIRECT
 DOMAIN-SUFFIX,pub.dev,PROXY
 DOMAIN-SUFFIX,hostloc.com,PROXY
 DOMAIN-SUFFIX,axshare.com,PROXY
@@ -60,3 +61,4 @@ DOMAIN-SUFFIX,qq.com,PROXY
 DOMAIN-SUFFIX,163.com,PROXY
 DOMAIN-SUFFIX,126.net,PROXY
 DOMAIN-SUFFIX,netease.com,PROXY
+
