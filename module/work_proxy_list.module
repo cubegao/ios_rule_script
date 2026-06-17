@@ -32,9 +32,9 @@ DOMAIN-SUFFIX,servicewechat.com,PROXY
 DOMAIN-SUFFIX,weixin.com,PROXY
 DOMAIN-SUFFIX,wechat.com,PROXY
 DOMAIN-SUFFIX,tencent-cloud.net,PROXY
-DOMAIN-SUFFIX,feishu.net,PROXY
-DOMAIN-SUFFIX,feishu.cn,PROXY
-DOMAIN-SUFFIX,feishucdn.com,PROXY
+#DOMAIN-SUFFIX,feishu.net,PROXY
+#DOMAIN-SUFFIX,feishu.cn,PROXY
+#DOMAIN-SUFFIX,feishucdn.com,PROXY
 DOMAIN-SUFFIX,right.com.cn,PROXY
 DOMAIN-SUFFIX,cursor.com,PROXY
 DOMAIN-SUFFIX,linux.do,PROXY
