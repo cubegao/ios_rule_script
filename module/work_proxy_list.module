@@ -2,7 +2,7 @@
 #!homepage=https://github.com/xx
 #!desc=Work Rules Customized
 #!author=custom
-#!updated=2026-04-08
+#!updated=2026-09-28
 
 [General]
 dns-server = https://dns.alidns.com/dns-query,https://dns.pub/dns-query
@@ -61,4 +61,4 @@ DOMAIN-SUFFIX,qq.com,PROXY
 DOMAIN-SUFFIX,163.com,PROXY
 DOMAIN-SUFFIX,126.net,PROXY
 DOMAIN-SUFFIX,netease.com,PROXY
-
+DOMAIN-SUFFIX,wx.qlogo.cn,PROXY
